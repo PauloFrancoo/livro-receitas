@@ -1,14 +1,14 @@
-#**Livro de receitas**     :woman_cook:
+#**Livro de Receitas**     :woman_cook:
 
 
 
-Olá! Bem vindo ao livro de receitas:book:
+**Olá! Bem vindo ao livro de receitas**:book:
 
-. Strognof de frango.
+1. **Strognof de Frango**
+2. **Pavê com Bolacha de Maizena**
+3. **Bolo de Cenoura**
 
-. Pavê.
 
-. Bolo de Cenoura.
 
 
 
